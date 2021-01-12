@@ -53,7 +53,8 @@ def make_json(csvFilePath, jsonFilePath):
 # Driver Code 
 # Decide the two file paths according to your 
 # computer system 
-jsonFilePath = "D:/Downloads/sandbox-installs.json"
+jsonFilePath = " "
+csvFilePath = " "
 
 #Task 2 - Input a CSV file and present a data summary
 
