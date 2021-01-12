@@ -8,3 +8,5 @@ If the script is being run on the windows command line then the prerequisites co
 - python3 -m pip install pandas
 - python3 -m pip install unidecode
 
+- An insight report of the dataset
+- Docker file & requirement.txt file. Attempted to complete this task but was unable to due to an error with respect to some i.o package in python.
